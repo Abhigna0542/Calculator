@@ -1,0 +1,6 @@
+# Enter the file content here
+Django
+Numpy
+Pandas
+Scikit-learn
+Gunicorn
